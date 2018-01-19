@@ -12,6 +12,7 @@
         "start": "node index.js"
     },
     "dependencies": {
+        "azure-storage": "^2.7.0",
         "botbuilder": "",
         "cheerio": "",
         "dateformat": "",
@@ -22,11 +23,11 @@
         "net": "1.0.2",
         "node-emoji": "",
         "nodemailer": "*",
-        "random-number-between": "",
+        "random-number-between": "^1.0.3",
         "request": "",
+        "request-promise": "4.2.2",
         "restify": "",
         "textract": "^2.2.0",
-        "util": "",
-		"request-promise":"4.2.2"
+        "util": ""
     }
 }
